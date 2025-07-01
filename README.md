@@ -33,7 +33,6 @@ SIPILAH menggunakan model <code>MobileNetV2</code> berbasis <b>deep learning</b>
 
 ## 🚀 Keunggulan Aplikasi
 
-<p align="justify">
 - **Offline Mode** – Tidak membutuhkan koneksi internet
 - **Ringan dan Cepat** – Performa tinggi dengan model efisien
 - **Tampilan Modern** – UI/UX yang ramah pengguna
