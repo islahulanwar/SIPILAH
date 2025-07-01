@@ -42,6 +42,6 @@ SIPILAH menggunakan model <code>MobileNetV2</code> berbasis <b>deep learning</b>
 
 ## ⚠️ Catatan Tambahan
 
-> 📷 Pastikan gambar yang digunakan **terang**, **fokus**, dan **tidak buram**. Gambar yang baik akan meningkatkan akurasi deteksi jenis sampah secara signifikan.
+> <p align="justify">Pastikan gambar yang digunakan **terang**, **fokus**, dan **tidak buram**. Gambar yang baik akan meningkatkan akurasi deteksi jenis sampah secara signifikan.
 
 ---
