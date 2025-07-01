@@ -1,3 +1,0 @@
-com.tflite.DeteksipenyakittanamanMn.test
-style WhiteBackgroundDialogTheme
-style WhiteBackgroundTheme
